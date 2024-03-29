@@ -10,4 +10,4 @@
   
   <h2>PREVIEW</h2>
   <p>HOME PAGE</p>
-  ![Alt Text](Home Page - Desktop.png)
+![Alt Text](Home%20Page%20-%20Desktop.png)
