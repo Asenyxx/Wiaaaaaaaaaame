@@ -10,4 +10,4 @@
   
   <h2>PREVIEW</h2>
   <p>HOME PAGE</p>
-![Alt Text](Home%20Page%20-%20Desktop.png)
+![Home Page - Desktop](https://github.com/Asenyxx/Wiaaaaaaaaaame/assets/98194043/e4b57163-2b7e-4ca9-b7d9-2f21fe9de9de)
